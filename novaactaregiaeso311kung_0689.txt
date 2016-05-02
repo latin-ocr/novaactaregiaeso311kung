@@ -1,0 +1,42 @@
+PARTIELLE DIFFERENTIALGLEmHUNGEN. 39
+
+ZWEITE ABTHElLUNJ. UEBER EIMGE ‹JPERATIORSSYMBOLE.
+
+Wie 111 (161· vorigen Abtheilung betraehten wir D oder ΒΞ, a'ls
+Zeiehen der Ableitung und solglich D''' als Zeiehen einer m-maligen
+NViederholung dieser Operation.
+
+Dureh D-¹ wird die umgekehrte Operatiou zu D, (1. 11. diejenige
+Operation angedeutet, durch welche das erste In†eg1·ale einer gegebenen
+Funetion erhalten wird. Weil eine Funcffion uneudlich Viele Integrale
+erster Ordnuug 11111, deren jedes 61116111 bestimmten &Verth der willkfir-
+lichen Integratiouseonstanten entsspricht, so ist folglioh D-¹ als 6111 un-
+endlich vieldeutiges Operatioussymbol zu betraehten. Diess geschieht,
+wem] wir die Gleiehuug
+
+'11 ‘1¹¹
+D-Jm = 1¹( fem ε f U f<2><l³
+als Definition des Symbola D*¹ beuutzen. In dieser Gleichung ist nam-
+lich (116 willkurliche Integrationseonstante durch (116 ebenfalls willkurliche
+untere Integrationsgrenze ι1χο ersetzt.
+
+Die. m-malige XViederholung der Operation D-¹ wird durch D‘m
+bezeichnet, wobei genau zu beachten ist, dass die bei 611161· jeden der
+durch D-¹ angedeuteten Operationen einzufuhrende 11111616 Grenze μθ
+immer denselben Werth bekomme, (161111 sonst πίῃ-(16 (116 Identi‘siit des
+Symbols D-¹ aufgegeben.
+
+Aus diesen Definitioneu folgt
+
+1³0> Β-ηιΒ-ιῖΐῖῌ) = DjuD-—mszy) z D—Jn-rzny)
+und 1
+210> D‘stszw = D‘D‘zfos) = ΒΜ 1 w),
+
+aus welchen Skstzen (116 Anwendbarkeit der Symbole Dm7 ])-¹‘¹ 111 der
+Operatiousreehnung unmittelbar erhellt.
+
+Mau kann das Symbol D*''¹ auch durch die Gleiehung
+(1) Deve> = r<÷> j w-:w-v'esss
+
+definirem, und class diese Definil‘tion mit der vorigen zusammenfffllt, ist
+

@@ -1,0 +1,86 @@
+PARTIELLE DlFFERENTIALGLElCHUNGEN. 7
+
+Als dae Resultat der vorigen Analysis geht hervor⁷ dass man aus
+den Coefficienten einer gegebenen linearen partiellen Differe1⁷1tialgleiohung
+der Form (1) immer vier verschiedene Ausdriicke bilden kann, welche
+die Eigenschaft haben, dass sie, als Functionen der unabhiingigen Ver-
+{inderlichen betrachtet, unvera‘nderlioh dieselben bleiben, Wenn man sie
+bereehnet mittelst der Coeffieienten der gegebenen Gleichung oder mit-
+telst derjenigen‚ die in einer anderen aus der vorigen durch die Substi-
+tution z = φ(α;,3χ)ζ gebildeten Gleiehung euthalten sind.
+
+Diese Ausdrficke sind ausser den Coefficienten Fl und F2:
+
+8Ἷι undS—‚wenn F0 z 1 ‚1920
+lim [εδψ und lim kS* ‚ wenn F0 = Ο ‚ F, Ξ 1 , R Ξ Ο
+lim ΕΓΒ und T, wem] FO = 1 , R = O ‚ lim Rufi Ξ Ο
+
+‚ppo-tw?-
+
+lim ΕΓΒ und Δ ‚ wem] F0 = 1 ‚ R = O ⁷ lim RV& = O .
+
+ssVote.
+
+Aus den W⁷e1·the11 von S÷ und S— erhfflt man
+
+F -R Fl-Jss
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11—12——12 12—0——F4
+8,Γ — S„ = ΡἾμ ÷ R— *Ie——
+P—F¹‡R-F4 PF1-÷-I{e—F4
+*¹* P- “ ³11> - ΞΕ
+
+oder, wenn man
+
+Q=Q÷}D
+setzt,
+
+[R FssQ-E-Jffi P- F13’R-12
+8ψ - 0— = Q R -1- “R
+[ζΓ Q -F4 J>— 20AE -F
+÷ F R ψ “R ΔΓ
+
+ 
+
+ 
+

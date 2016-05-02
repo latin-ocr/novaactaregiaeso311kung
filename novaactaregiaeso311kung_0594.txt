@@ -1,0 +1,77 @@
+20 . A. BERGER,
+
+N⁰ termes soient des nombres pairs, et N1 termes des nombres impairs,
+nous aurons
+
+(129) N0÷N, ΞΡ,
+et l’6quation (127) donne
+(130) No — N1 = Sm 3
+
+par suite on aura
+
+ 
+
+ 
+
+(131) No Ξ 2³ ÷ ἱ, N, Ξ 21ssss 8 .
+
+Il est deff-montr& par la que:
+
+Dans la suite des p nombres carffis
+(2072) , Q(4p -Ι- 7η) , Q(8]) -ξ- m) ..... Q(4(p — Dp -ξ- m)
+
+Ἰ
+P'me nombres sont pairs, et les 2³]*3m nombres, qui restent, sont
+
+Η
+
+ 
+
+ 
+
+impairs.
+
+En vertu des formules du paragraphe prc'aecfflent on obtient les
+th50r33n1es suivants:
+
+Tlae'omffme I. Parmi [33 p nombre-3 carrd& Q(O>, Q(4p> , Q(8p) , . . .
+...Q(4(p-l)p) il 3] a l) ψ 1 4- K¹ , Ρ ’'- 1 ,P ‘¹' 1 4- lg , P 41—2K1 nom-
+
+o ο ε) ε)
+
+Η ..A -ι Η
+
+ 
+
+ 
+
+ 
+
+bres pairs, suivant que ΡΞ 1, 3, 5, 7 (mod. 8).
+
+le'orcme Π. Parma· les p nombres camis ΟΕ) , ρξξ) , Q(—) ‚ . ..
+
+u
+
+ι . . (2(<8])-ξ7)]-)) il y a J)†l†c)K1-}-K2 Ἰ p—lo—ka ⁹ p—l—gsl ÷If2 ⁷ p-l2-K2
+
+ 
+
+ 
+
+ 
+
+ 
+
+nombres pairs, suivant que JJE 1, 3, 5, 7 (mod. 8).
+
+lec'orlvne III. Parmz· les p nombres earre's QQ») , Qffip) , Q(9p) , . . . ¹
+
+ 
+
+. .. Q((4p-3)p) il y a P—lgf' K¹ , p—IZQKI , P—lo'f Ξ , 3²5} nombres
+
+μ’ Η ..ι
+
+pair-9, suivant que ΡΞ 1, 3, 5, 7 (mod. 8).
+

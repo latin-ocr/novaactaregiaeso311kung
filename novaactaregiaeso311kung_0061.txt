@@ -1,0 +1,63 @@
+SUB QUELQUES APPLICATIONS DE LA FONC'HON F, etc. 29 ι
+
+Maintenant‚ puisque
+
+ 
+
+ 
+
+ 
+
+nous concluons de l’e'aequation (140)
+
+Α (142) 54(1c»2210g ¹ ‘1 ‚
+1
+
+1—a “ 1—<1
+
+ 
+
+ 
+
+et de Γόφιῆῒίοη (141)
+
+ 
+
+(143) ἑ ψῃ») < η log 1 1 a·
+¹ -
+
+Les formules (142) et (143) peuvent se ffiduire ἐι une seule
+
+1
+
+ 
+
+(144) >fi ψῃ») 2 n 10g -λ,
+1
+
+α . Maintenant si nous ἀέ-
+
+ 
+
+dans laquelle λ est compris entre Ο et l-a
+
+signons par T(a‚ b) la moyenne arithnffitique des valeurs de la fonction
+
+¹⁴0⁶) pour
+lc=a÷l, (μὶ-2, b—l, b,
+
+et supposons, que t soit une telle fonction de η, que pour n = 00
+
+lim Ξ = Ο,
+n
+
+lim t = 00,
+nous obtiendrons de l'e‘aequation (144) pour n = 00
+
+1
+l—cz
+
+(145) lim T(7z—t, η -1- t) = log
+
+ 
+

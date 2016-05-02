@@ -1,0 +1,45 @@
+84 ERNST PFANNENSTIEL,
+
+D-sslssg-}[zk -1-3111-4-01.
+
+(14) Δ = - ,ξ Η
+wo G eine willkfirliche constante bedentet. Durch Vergleiohung der
+beiden Formeln (11) und (14) werden pl, μ, a„ σι2 bestimmt. Nun wird
+die Gleiehung (10) eonstruirt. Ffihrt man endlich in die gegebene Glei-
+ohung (13) die neuen Verginderliclmn ein, erhiilt man
+
+ 
+
+ 
+
+D}²†D5³} 0w153÷—‘¹’2H2‚]÷D22:4[1—5]÷F4{k3(ff::0.
+
+     
+
+Weil diese Gleiohung mit der soeben oonstruirten gemeinsaxne
+Werthe der Functionen lim MS, T hat, und das Integrale der letzt-
+genannten Gleichung bekannt ist, so erhiilt man das Integrale der Glei-
+chung (13) nach der gewbhnlichen Metlwde (1 Abth. 1 Cap.)-
+
+Was endlich die Differentialgleiohungen der dritten und vierten
+Gruppe betrifft7 kssnnen wir uns sehr kurz fassen.
+Fsu- die Gleichu1'1gen der dritten Gruppe gelten die Forlneln
+
+84 oder »δ’- z Ο ‚ [1)Ξο
+und fiir diejenigen der vierten Gruppe
+B Σ Ο 7 lim [ΠΒ z O.
+
+Jene kijnnen immer dure-h die Substitutionffinethode von Laplace
+und Legendre integrirt werden7 deun sehon nach der ersten Substitu-
+tion erhiilt man eine partielle Differentialgleichung der ersten Ordnung.
+
+Die Gleichungen der vierten Gruppe werden durch die Substitu-
+
+tionen
+., - ‚ff [ἦ
+3 Ξ 11· ‚ ,4 :w ,30 , u 1, (D ÷ ἶ Β,,) ,, 2 ‹⁷› ‚
+
+auf die Foru]
+
+D} -f- F3D3: -ι- R: z
+

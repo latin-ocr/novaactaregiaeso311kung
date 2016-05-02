@@ -1,0 +1,47 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 79
+
+sys'F—Qslm gehijrigen willkiirlichen Function φφ) 6111161161] konnen. Ffir
+einen bestimmten Werth der vieldeutigen Funotion sVEdJJ ist demnaeh
+
+Μγῖῃ. »ΝΕ 1'“VE‹1.1÷.4›D3 ὲ 1 0 ‚ w. Z. b. w.
+
+Es ist folglich demmichst zu bestimmen, welehen Werth wir der Func-
+tion sVFffZoe geben sollen.
+
+Wird durch A deljjenige W‘erth dieser Function bezeichnet, in
+welehem kein von m unabhitngiges Glied vorkommt, und durch :149
+derjenige worth, fiir welehen die Gleiehungen (2) und (3) gemeinsame
+T-funetion erhalten3 bezeichnet¹ man ferner durch Lo> Mo diejenigen
+Werthe der betreffenden Funotionen L, M, welche dem Werthsxsffidm=A
+
+entspreohen, ergiebt sich
+L z L0 -ς- φ’ , 11[ 2 Mo - Pas.
+
+Ffihrt man diese Werthe in den Ausdruck (4) ein, und wird dieser
+Ausdruek nachher = O gese¹tzt7 erhiilt man
+
+Εὲ-Ι-ΑΦΒῖὲΞᾳ —q ‘DDssss-ss—,ff
+
+welche Gleiehung zur Bestimmung der Function φ dient.
+
+Hiedureh wird die Gleiehung· (2) vollsffindig bestimmt. Mittelst
+der in der ersten Abtheilung da1-gestellten Methode ist es daun leicht,
+aus den Gleiehungen (2) und (3) die Form der Function 215(oe,y) zu be-
+
+reehnen.
+Beispiel. Man suche das luteo-vale der Gleiohuno-
+
+DJ·,'.: ÷D²1³÷41D²³÷L—1“JD -LIJJ 2÷i=0‚
+
+Es ist dam]
+
+11¹—- 23(
+
+R Ξ Ο , limRVS= 8
+
+ 
+
+Wir setzen zuerst
+
+÷=an<D1÷ssDy>n=0 ηερ-ξ,
+

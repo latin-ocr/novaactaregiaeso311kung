@@ -1,0 +1,56 @@
+PARTOELLE DIFFERENTIALGLEICHUNGEN. 13
+
+F,÷P
+
+2
+
+(14) X — -Ο oder D ξ -{-— ΒΓΕ = Ο
+
+ 
+
+bestimm‘s. ist.
+Wie wir soeben bewiesen haben, gelren (1111111 (116 Gleichungen
+
+lim ᾸΣ 11111 ΙῡΣ
+
+Γ 4 —
+(¹5) ΓΓ,[1)1,1ζ·- ])ΓΓ Ἰν δ’ ΒΓ, -[1)ξ 24} 1)ΓΓ,] 5”’
+
+x2
+
+wenn »ΞΓ 11. S aus der Gleiehung (12) 1111(1 11111 ΑΣΓ, 11111 Α’Σ- aus (13)
+bereehnet werden. ⁹
+
+Duroh Auwendung der Τ11111316111111116116161111611] (6) 1111(1 mit be—
+heriger Rticksioht der Bedingung (14) kann 1111111 011116 Schxvierigkeit (1611
+letztgefundenen Gleichungen folgende Form geben
+
+(16) lim (ch >2¹ -ἐὶ 11111 (RE >z xjv? 4 X1 z ‹i›
+
+Setzt 1111111 111 (1611 vorigen Formeln —R sta‘tt H, 61111111 1111111 fm- Χ, ¹: O
+
+(17) lim (leq) Ξ ἐξ, , nm (lcE—) Ξ -JL
+
+⁴1⁷2 12
+
+Bisher haben wir 111111161 [1)Ξο angenommen. Setzen wir jetzt
+R = Ο, so Wird 1111611 Formel (4) ebenfalls Ε, 2 O. Unsere Aufgabe ist
+darm, den Zusammenhang darzustelleu zwischen der fiir die urspriing·
+liche Gleiohung bereehneten Function lim RJ'E' und (161 entspreehenden
+lim Ειῖι , welche aus (1611 Ooeffieienten der durch Einffihrung von ξ 1111(1 η
+umgefmmten Gleiehung gebildet wird.
+
+Um diess zu thum, bilden wir aus (4) 1111(1 (8) folgende Gleichung
+
+ΕνΞᾹΒΓΕ . ΒΓ, - ΒΓΕ. 1)Γ.,Γ]
+
+ἡ ,ΗιΐΣΓ .
+
+ 
+
+Bei verschwindenden H 1111116111 sich Xl 11. X2 der gemeinsamen Grenze
+ΒΓΕ 5-1- ῘΞΓῙΒ Ε.
+
+Die· Grenzwerthe von By& und Ra}÷ sind sehon vorher gesun-
+den. Auf diese NVeise ergiebt. sich
+

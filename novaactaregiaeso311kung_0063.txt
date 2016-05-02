@@ -1,0 +1,50 @@
+Suu QUELQUES ApmcxrmNs DE LA FONCTION Γ ete. 31 Δ
+
+En elnployant les formules (42) et (45) 011 obtient sle ces inegalites
+(147) {wo = {5² (lognp - (1—(1) (η loga-‚254 λ ι ,ῑ loga,
+ι Η
+
+dans laquelle λ est, pour tontes les vadem-s de 11, une quantit& finie. Si
+nous designon's par Mn) les deux premiers ‘termes du second membre
+de l'equation (147), Τ(α, b) ayant la menie signification que dans 166
+paragraphes precedente, nous aurens
+
+(148) T(n—t‚ ⁷z-st-t)— Q&
+
+ 
+
+λ1 ι’ἶ-Ῑ-ἿΙΟὲΟι -Ι- ιὲ)-λ2 Vn — dogm—t) ¹
+2ae
+
+D'apres le theoreme de TAYLOR
+
+(149) X(n-3-t)-X(n-t) —a)''(⁷2) Ξ t ἕ
+
+Ξῖ 4 X'‘(n 4 θ1 t)-X‘'(n--62t)} .
+
+Puisque
+
+³⁰02> = ss<10gn>²÷ 610311,
+
+X''(72) Ξ logn -†- Ca
+
+n
+
+ 
+
+les seconds membres des equations (148) et (149) eonvergent vers (⁷)
+pour n = 00, la. quantit& t etant une telle fonction de n, qne pour n Ξ 00
+
+1sz logn Ξ O
+
+ 
+
+lim t ‚
+lim QQ = Ο .
+η
+
+Cette condition faite, on obtient par l‘addition des formules (148)
+et (149) pour n Ξ 00
+
+(150) lim {mn-t, n÷t)-}<10g22>2-010g22} 2 0,
+

@@ -1,0 +1,42 @@
+PARTOELLE DIFFERENTIALGLEICHUNGEN. 33
+
+Cap. V. Ueber dte Inleffl‘atzbnsmellmde von Blonqe.
+
+1²11 ihrer Amvendung auf die lineare partielle Differentialgleichung
+zweiter Ordnung zeigt sich die Monge'sehe Integrationsmethode weit
+weniger generell als die vorige7 wem] sie auch jene Methode darin iiber—
+trifft, dass sie sich ehensogut auf die nichtlinearen Gleichungen als auf
+die linearem anwenden liisst. Wie die folgende Analysis zeigen wird,
+beschriinkt sich nf'inssich die Anwencllmrkeiss der Monge'schen Methode auf
+die einzelnen Faue S÷ oder S* Ξ O.
+
+Es sei
+(1) r÷Fls÷F2t÷bssw÷Rrs÷Rs:0
+die gegebene (Mein-hung, wo
+r z Εἷς , s· = Dsp'yz . t z DJ: 7 J* = DI: ‚ «J Ξ DV„- ,
+
+Bekanntlich setzt die Monge’sche Methode die Existenz einer oder
+zweier Differerstialgleichungen der Form
+
+(2) q(11‘‚;1s‚³‚21‚11)= F(³1¹(11‘‚.³s «ε ‚p ⁷ ¹l))
+
+vorans, aus welchen man durch partielle Ableitungeu und durch Elimi-
+nation der willlx'firlichon Functiousfcmn F die gegebene Gleiohung bil-
+den kann.
+
+Wird die folgende Bezeichnung eingeffihrt
+
+(κ , λ) = quDfflJ — DquDstss,
+
+so erhiilt man aus der Gl. (2) durch partielle Ableitungen und durch
+Elimination von F folgende pal-tielle Differentialgleielmng zweiter Ordnung
+
+(3) (21, «ΛΜ-82] ÷ (θ’ ,γὼ ÷ «Ast , ε>>ν ÷ [m αι) ÷ qo] ,ἡ ÷(‹1'‚1›)
+÷ [κε ‚pss-0 ÷[(‹1³‚‹1)÷1›(:‚1s>]t÷(:‚2f)2›÷<oe‚s>q ψ (a¹ 29) = 0-
+Aus den identisehen Gleiehungen
+ΒΜΨ.(κ,λ)-1-Ι),,ει»·.<μ,κ>-4-Βκφ.(λ,μ)Σ(ᾗ),<κ,),); -<λ,κ)
+
+ergiebt sic-h
+
+Nova Acta Reg. Soc. Sc.. ἴῃς, Ser, 111.
+

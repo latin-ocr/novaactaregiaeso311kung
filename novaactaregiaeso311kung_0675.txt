@@ -1,0 +1,51 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 25
+
+Hier ist nieht der Ort, eine el·s(·l]6pfende Auseinanclersetzung
+der genannten Methode zu geben. Wir wollen desswegen nur die all-
+gemeinen Grundzt'ige derselben ‹ilarstellen und die Redingungen auf-
+suchen, unter welohen sie als eine selbststiinclige Integrationsmethode
+
+angewandt werden kmme.
+Es sei
+
+(1) D„- 4 [ἥβῃ ÷ F2DJJ: ÷ FgDss ΔΓ F4Du: ΔΓ F Ξ 0
+
+die gegeben& Differentialgleichung; sei feruer fiir diese Gleiehung die
+Bedingung H{O erffillt.. wir semen daun mit Legendre
+
+(2) [2ss ΔΓ MDV: 4 ΛΕ =
+
+wo M,N naehher zu bestimmeude Funotionen von α’ und gs bedeuten.
+Durch partielle Ableitungen ergiebt sich
+
+(3) Εἷς 4- M Dj-ssws 4- NDffi 4- ML-DJJ: 4- NJ: 2- D-,g
+(4) Diffi 4- AJDsf-j: 4- (N4- MDDfl: 4- NJ: = Dffi'g .
+
+Werden die Gleichungen (2), (3), (4) summirt7 nachdem man die erste
+del-selben mit η, die letzte mit m multiplicirt hat, und wird ferner von
+
+dem Resultat die Gl. (l) gezogen, so erhalt man
+(5) Dsg 4- mDJg 4- ηζ Ξ (All 4- ιιι-Ρῇὒξᾙε 4- <2117n-F2)Dj52:
+4- (N4- n—F3)D,.: 4- [JK 4- ῃκΜζ, 4- N) 4- η JJ-fflDf
+4- [AY 4- mNjs 4- ›zN—R} Σ Ο .
+
+Werden nun m , γι, , M, N auf (lie weit-e bestimmt‚ dass
+
+(6) Als4-1n Ξ F mall: F. 7 N4-n z ΙΨ3 , ΕΜΓ-ς- νη(]11ζ,-1- Ν) 4-mllz Fl 7
+
+1 7
+
+so ergiebt sich mit Amvendung· der ssezeiohnungen der vorigen Capitel
+
+l' Jfltlffl’*p⁷4 P &JK „1³4
+
+—H † :2 r
+9-‚71— ;› ,ἱ L γ P
+-ι ι ι
+
+ 
+
+NJ! 4- om] 4- ‘JtzN—Ff, z — S .
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ, 4
+

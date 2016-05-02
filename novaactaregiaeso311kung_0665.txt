@@ -1,0 +1,62 @@
+PARTOELLF, DIFFERENTIALGLEICHUNGEN. 15
+
+Wiire die Aufgabe gewesen, nur die Coefficienten der Differential-
+quotienten zweiter Ordnung von der einen unabhssingigen Veriinderlichen
+zu befreien. 6ο wiire (11666 Aufgabe an] einfachsten dadurch gelest, wor-
+den, dass man als neue Ve1·{inderlichen ξ und η erwiihlt hatte uhter den
+Bedingungen
+
+Fl 4- H
+
+9
+
+u
+
+Fl-Je
+
+2
+
+ 
+
+ 
+
+Dyg Ξ O ‚ Dm Ἴ( Dffl Σ 0.
+
+(2) DJ} ÷
+
+Durch Einfuhrung dieser Veriinderlichen geht numlich die gege-
+bene Gleichung fiber in
+
+(3) ngz 4- elnggs ÷ ‘1’1Dffl 4- ms: Ξ O .
+
+Wir nehmen jetzt fur einen Augenblick an, dass die gegebene Glei-
+chung durch die genannten substitutionem auf die Form (3) gebracht
+worden sei, und stellen uns (116 Aufgabe, die allgelneine Form der-
+jenigen Substitutionen
+
+α = τζξ, 12) 2 v Ξ we, η)
+
+zu bestimmen, durch welche man fortwiihrend Gleichungen erhalte, in
+denen die Coefficienten der Differentialquotienten zweiter Ordnung nur
+Functiouen von u 661611.
+
+Durch Einfiihrung von u und v in die Gleichung (3) erhfflt man
+allgemein
+
+(4) DZ: . [Dgzc . DUM] 4- D{,.:[Dgzc . DUU 4- ng . DUM]
+4- D'ss: . Βξυ . Βηυ 4- casae. = O .
+
+Damit nach Division der Gleichung durch den ersten nicht verschwinden-
+den Coefficienten diejenigen der Differentialquotienten zweiter Ordnung
+von v unabhiingig seien, wird erforderlich, dass entweder
+
+Dgu = Ο ‚ qu = F(cc)l),7u
+oder
+DUM Ξ Ο , Βξυ = F<u>D5u
+
+oder endlich
+ng = F(u)D3zc ‚ Duo z RQODW
+
+d. h. es miissen die neuen Veriinderlichen ιι, υ durch eines der drei
+folgenden Systeme bestimmt werden
+

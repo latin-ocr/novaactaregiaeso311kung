@@ -1,0 +1,51 @@
+PARTOELLE DJFFERENTIALGLEICHUNGEN. 63
+
+Um dieses Theorem verallgemeinern und auf (116 partiellen (31161-
+chungeu anwendbar macheu zu kbnnen, sind wir genethigt, zuerst 6111
+Paar Hiilfsformeln zu deduc-iren.
+
+Zuniichst gilt offenbar (116 Identitat
+
+jhm—tfnjfflQs—vzlonu—t)‚t)(lt— - (ᾈΗῼα- ‘3¹' uss—{e ans— mloy(.v— t), t)cly
+
+--e ”'j}v—t>“dtje-53 flu-ww malove—t> tm
+
+1111161 (161· Annahme, dass ψ und ms stetig und endlich bleiben. ‘Dc' be-
+deutet hier den Differentialquotienten der Funetion Φ im Betreff von t
+insofern genommen, als diese Quantitiit zum Ausdrucke y—mloLch-sst)
+nicht gehort. 181 α positiv und ιτο<εῑ’-ὁ<.υ oder ι”ι’(,>ατ-δ>.1, ergiebt
+sich hieraus
+
+m
+
+(9) ji& t>‘¹‹1>(gs-m Iots(¹,—t) 1)(11Ξὸᾉα61-ἀ [σε-ΕΦ Φζῃ- -Ὶηίορδ, v— ‹Dci'y
+
+(AF—:eoss Μ’ ’ ³²⁰
+
+— (³37 j 455OE(Js—ml09(;z⁷—a‘0)‚a 0)dy—- -61-’1Λ- (tv- t)‘¹ dt Φ,6 -ῗι dy.
+
+m μ m
+
+ 
+
+Wird (11686 Gleiehung im Betreff von oe differenzirt, so 6111ἑ111 man
+
+DJ] '‘G-tf‘sspm :Aa 67 J ε7’7“ψ ψ’(θ-ἠῑθέίδ ν ‘²²*‘³)⁶³‘s
+
+7η
+
+- DI[(²²³*530ye3y721‘l'ss‘fe1511‹1>(1s—7nZ09(2z²—‡20)‚xst⁴0)ch(]-—--1-0533‘2Lt (ἷ- t)“ (ῖιῒυ-ΦΣῘ 6 -ἕάῃ
+
+m
+
+ 
+
+÷s¹{.2mt)“‘¹‹1>2'clt .
+
+Weil das 61816 1111(1 (111116 Glied gegen einander verschwinden,
+wird hieraus
+
+(10) DJ [JZss-t>“”¹‹12c1t Ξ j :KQ—t>“”¹‹1›fdt ÷ (oe-oeoysshpw *moyes-xo> ‚ xo).
+
+Durch nochmalige Ableitung ergiebt sich
+

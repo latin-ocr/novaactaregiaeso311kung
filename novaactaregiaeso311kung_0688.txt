@@ -1,0 +1,51 @@
+38 ERNST PFANNENSTOEL‚
+
+ 
+
+gesetzt, so xviireu wir zur Bedingung
+
+5— Ξ ο
+gekommen.
+Ist R = O, zeigt die Gleishung (6)7 dass fiir die Anwendbarkeit
+
+der Monge'sehen Methode
+
+(Ρῷ ’ἒξ-Ε- 4) oder lim Rufi z 0
+
+..a
+
+erforderlich wird, wodurch Ψ mittelst der Gleichung
+DJ111-1- {Dum 4- vDffi - (Fff -4- F52)D2.11›· z O
+
+zu bestimmen ist.
+
+Nehmen wir der Einfaohheit wegen an, dass die. Vera'nderliohen
+ursprsmglich so gewiihlt worden sind, dass man Flzs) habe, so er-
+scheint die gegeben& Gleiehung in der Form ⁴
+
+DJ: -Ι- ΓῧΒμ -1- F5: ε Ο
+und statt (7) hat man
+ΠΛΡ· -ι- vDffl ᾖ (Ιζυ -ῃ- F55>D,.21⁵ z O.
+
+Versuchen wir diese Gleiohung mittelst der Methode von Lagrange zu
+
+integriren, ergiebt sich zuerst
+
+<lav {lj — (lv (ΙΨ
+
+ 
+
+ 
+
+ 
+
+1 v — -qufflF-g: μ 0
+woraus
+
+DJ: z v 7 Dm z — E³c·—-Fs‚: 7 Ψ z c
+Durch Elimination von υ erhalten wir
+DJ: -4- 1⁴⁷3 Dw‘ -ῃ- R„— : Ο
+
+oder dieselbe Gleichung, von der wil· soebeu ausgingeu, d. h. die Me-
+thode von Monge ist im vorliegenden Faue illusorisch.
+

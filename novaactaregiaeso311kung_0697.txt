@@ -1,0 +1,50 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 47
+
+Setzen wir in der Formel (9) m z 2, erhalten wir
+, Π ζ, ’ 2ναῖ --Ὗιω
+(13) a! FQs) :j ” ’ΞΒ-’Ἰ e -1- e 1
+
+ω
+0
+
+ 
+
+welche Gleiehung spiiter zm· Anwendung kommen wird.
+
+Das Symbol
+
+ 
+
+ 
+
+ 
+
+awD÷e
+wird durch die Gleiehung
+(ιω D ι· ’” , · >,,,
+⁴2('÷)flm=ffm÷fffbffslffim÷st<ZssD—ffw÷
+oder
+‹z‘'’‘D »¹¹¹¹ ,122 um ν
+(14) < ÷ ³ f<2s>=173f² <RF—fes>
+definirt.
+
+Unter der Voraussetzung, dass ΙῙ’(]]) und die siimmtlichen Diffe-
+rentialquotienten dieser Function endlich sind, wird die Reihe auf der
+rechten Seite der Gl. (14) eonvergent. Diese Gleiehung kann auch
+folgendergestalt gesehrieben werden:
+
+ 
+
+ 
+
+‹1¹¹¹(D -ξ- ι·)”’ ,ι Ξ x Γ(η-4-Ξ) Γ(η-Ι-Ξ) .. .. P(›z÷''²†l)1›2{
+e fe> — Σ Ἅι [amm ²')]''¹'‘f(.²l)
+Ν :O (ἐὴ-’3- (ιηιὴῖ
+oder
+
+ 
+
+ 
+
+ergiobt sich hieraus
+

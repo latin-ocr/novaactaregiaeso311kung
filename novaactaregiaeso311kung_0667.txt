@@ -1,0 +1,48 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 17
+
+S
+(7) Σὲ ² - figam
+
+Hieraus zieht man unmittelbar folgendes Theorem:
+
+Die nothwendige und hinreiehende Bedingung, unter welcher die
+gegebene Gleichung durch Einfiihrung der neuen Veranderlichen u und v
+und durch Austausch der abhn'ngigen'z mittelst einer Substitution der
+Form z z gpQr, ιῖχ)ζ derart umgebildet werden kann, dass die Coefficien-
+ten der Endgleichung siinnntlieh von v unabha'ngig werden, ist, dass
+gleichzeitig ΞΔΓ und Σ- - bez. lim Α’,ῩὟμ und lim ΙεΣ- —- nach Elimina-
+tion von ar, y, ξ, η sich als Functionen der einzigen Veriinderlichen ze
+darstellen lassen. Diess aber trifft mn· ein, wenn sowohl S, als S*
+folgende Form haben
+
+(8) R²<1³1[f(}) 4- 911(¹1)]f'(})&OODJAEDW ⁷
+
+wo Φ1 auch einen oonstanten Werth haben oder nur als Funotion der
+einen der Veriinderliehen ξ, η ersehehoen mag, vvobei jedooh zu bemer-
+ken ist, dass in diesem letzten Faue nothwendig S, τ S— ε 17<ξ) oder FQ)
+sem muse.
+
+Aus dieser Bedingung folgt, dass jedesmal, wenn die Aufgabe
+meglich ist und Wenn nicht der Quotient S, : S* einen constantem Werth
+hat, die neuen Vera‘nderliehen durch die Gleichungen
+
+η = F(}÷) , υ 2 ww> ψ m>
+
+oder, wenn
+S, : S* z φάη)
+ist, durch das System
+
+η 2 F(}—) ‚ Ξ <1200 ÷.s·<}>-
+
+bestimmt sind. Dabei sind F, Ψ, f willkiirliche Funetionsformen, wo-
+gegen φ eine von dem Quotienren 5318„ vellig bestimmte ist, die fol-
+gendermassen gefunden werden kann.
+Ans
+S
+
+δὲ = ‘1²1 (fOE) ÷ φ<η>>
+
+felgt
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ, 3
+

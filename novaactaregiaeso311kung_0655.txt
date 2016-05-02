@@ -1,0 +1,50 @@
+PARTn-:LLE DIFFERENTIALGLEICHUNGEN. 5
+
+Diese beiden Ausdrfioke haben fiir Gl. (10) dieselbe Bedentung,
+wie die vorher gefnndenen S÷,S- fiir Gl. (Ι).
+
+Bisher haben wir ilnmer IQO angenommen. Wir selu-eiten jetzt
+zur Herleitung derjenigen Ansdriicke, die S4 und S- jedesmal, wenn
+R: O ist, ersetzen sollen, Legem wir dann der Function R einen eon-
+stantem Werth bei, so k6nne11 wir S÷ folgendermassen entwickeln
+
+ἦ ={RDyAJrFfi÷}D21B÷[D2÷{¹Dff÷{⁷³÷{Dy{,—⁷¹]A
+
+(12)
+· F Β
+
+{Dr ÷ ξ ΠΗ ÷ ΗΠ ᾞἸΒ ÷ ff,
+
+ἦ’133 ,
+
+W O
+
+A={DHF1-§ , ΒΞΨἼΓΔΓξΒΠιΡΩξ--Ε,
+
+Wird der vorherstehende Ansdruck fiir S÷ durch ΕΞ multiplioirt,
+ergiebt sich durch Uebergang zur Grenze fiir R Ξ Ο
+
+lim S÷R² Ξ lim SQR2 Ξ B? ‚
+
+W OI'aUS
+
+(13) lim RVS Ξ <DJ ΔΓ ξ D„ ΔΓ 1093} n Ε,
+
+Wir erhalten auf diese W'eise nur den einen der beiden gesuchten Aus-
+drficke. Um auch den zweiten zu finden, werden wir folgenden &Veg
+einschlagen. Das System (4) giebt fiir ψβ-ΑΦ2 = O
+
+ῆᾳ-ΕγῆαωψῶῃὴξιΜψ-ῆῂεῆζῡφψξΒψῙ
+
+..Δ
+
+ψξῌψψψῌαῇ-ᾗαῆηῆψξῡβ]
+
+= ³² F³²÷1 Dq>[2F—F13—F DF-EDF]
+
+2 φ
+
+ 
+
+Denmach wird
+

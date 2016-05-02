@@ -1,0 +1,52 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 59
+
+abhiingigen, gebildet wird, so kann man die Fune'tion κ mittelst der
+
+Gleichung
+
+(4)*91ΨΓ2Ψ4 “⁵1³¹'‘2-2q'4— ¹1> -ffl‘E-czu ΒυΦι “RQ-2²1&
+[τῇ ’ ’“ 1312 χ “²⁶ ‘, [ᾗ 1212 R?
+
+ 
+
+ 
+
+bis auf einen Ffflztor bestixnmen, der nur von u abhfingt.
+Der umgeformten Differentialgleichung konnen wir nun folgende
+Gestalt geben
+
+(5) D33÷ <‹1>1D 4- w3)Du3÷(‹1›2D²÷ ΦΑ) ÷ <vm = υ ; D Ξ Ds-
+
+Wird in dieser Gleichung D als eine constante Quantitssit betrach—
+tet, so haben wir offenbar mit einer gewehnlichen Differentialgleichung
+zweit-er Ordnung zu sohaffen.
+
+weil jede Gleichung dieser Gattung natiirlich als ein Specialfall
+der allgemeinen partiellen Gleiehung derselben Ordnung zu betraohten
+ist, so kennen wir folglich anf eine solohe die allgelneine Theorie der
+letztgenannten Gleiehungen [ibertragen. Thun wir diess, so finden wir
+fiir jede lineare Differontialgleiehung mit einer einzigen nnabh'angigen
+Vera'nderlichen t(
+
+R z Ο , lim RV'E' = O ‚ Δ =f(u) .
+Die ordinaren Gleiehungen zweiter Ordnung bilden also eine Spe-
+
+eialklasse der partiellen der vierten Gruppe.
+Daraus erhellt uumittelbar, dass, wenn zwei Gleiehungen
+
+Dfi: -4- FlDH: -4- [ἧς = O
+Εἰς ÷ ‹1³1D21z ψ ‹1›ss = Ο
+
+denselben Werth der Function Δ geben⁷ zwisehen ihren vollstandigen
+Integralen ε und ζ die Gleiehung gil'r
+
+ζ = (p . ζ,
+wobei
+
+Φ1 = Fl -ι- Ξ anv
+
+oder
+
+¹l2s(‹1>1 — FOclu
+φ = Γ -
+

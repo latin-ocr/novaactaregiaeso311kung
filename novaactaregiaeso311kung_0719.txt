@@ -1,0 +1,59 @@
+PARTIELLE DIFFERENTIALGLEICHUNGEN. 69
+
+Wollen wir jetzt jene Gleichung unter der genannten Vol-aussetzung
+mittelst des Theorems an der Seite (64) iutegriren‚ so giebt zuerst die
+Forrnel (14)
+
+a—pcD Ξ (11 — pch.
+
+Es wird demnach
+
+4. ''²¹(cc—†)⁰¹*¹ 'W ι ¹ tu: Μ
+ς Ξ, s t e F(c -st-pt 4- loy δί’-ψ, >dt - ‹⁷›
+
+ 
+
+ 
+
+unter der Vol-ausse‘tszung, dass
+
+lim 0·¹⁴⁴'=F(z⁴ -4-210' -f- (⁹⁴⁶2 logsd' — po1logy(u-‹5)) = O
+
+nebst den allgemeinen oben gegebenen Voraussetzungen (16).
+Substituiren wir in der Gleiohung
+
+5: Μ’· ⁰³51 ⁷ 121=‹·—(ffl1—ss⁶2>509u2
+
+ergiebt sich
+mm ÷ ΗΜ) ÷ ma ψ (κιρ-μιν) ÷ Μ- ÷ UD&
+
+-1- (αε-μκῦ-ῙΧΡῘ) -1- [)ι)ζι = O ν
+
+woraus man erhiilt
+
+ 
+
+ 
+
+ζ Ξ j ὙΗῙΙῨΥΓΙ (⁴¹''‘F1(l'1 -f—stt -f- [ogs (u Z¹‘}>W)(lt ,
+
+unter {thulichen Vorzmssetzungen.
+Durch Wiederheffitellung (161· vorigen Vaeriinderlichen ergieb‘c
+sich also
+
+ζ = u‘¹¹—‘¹²[H (²⁴Tflf)‘s⁵†¹e''''F1(c-(pol-poffloyu -1- pt -ἦ- [09 tu* )(lt.
+
+(usp
+
+ 
+
+ 
+
+Im Falle (ι’1 = μι = Ο kann man der Gleichung (20) die Form
+
+ΒΞΟιζ) 4- D„(a2—l--pc2D—(pD -f-pl)u)g Ξ 0
+
+geben, woraus
+
+muz> ÷ [a2ss1—e021) - (ια) wama = F<v>
+

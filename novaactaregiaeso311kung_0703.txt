@@ -1,0 +1,56 @@
+Pfflrmmn DIFFERENTIALGLEICHUNGEN. 53
+
+Ε37 F.‚ Ψ 1111(1 Ψ stetig und endlieh sind, die drei ersten zwischen ²⁶0
+und ιι und Ψ zxvisehen Ο und 00. Nehmen wir ferner an, dass F5 : F3‘
+zwischen [(0 und u bestiindig negativ ist, so ist es erlaubt7 das Integrale (3)
+uuter dem Integrationszeichen zu differenziren. Wollen wil¹ aber dieselbe
+Operation mit dem Integrale (4) anstellen, ist es hingegen nothwendig,
+dass der Quotien‘c F ; F3' zwisehen den angefiihrten Grenzen bestiindig
+positiv bleibt. Die Prtffuug, welche keine Schwierigkeiten darbietet und
+desshalb hier weggelassen werden kann, zeigt in der That, dass unter
+den gem-aehten V‹)1··u1ssetzungen (Ias eine ode} andere Intestale nach
+(161 Β6εοΙ111ΐ61111611ῑ des Quotienten F F3 die gegebene Diflerentialglei—
+chuno (1) befriediot Im Falle wo (161 Quotient F: Fg' einen constan-
+ten W 61111 Α an11i1n1n⁴r‚ist es meglieh, einen sow 0111 eins-deberem als voll-
+stz'indigeren Ausdruek der beiden Inte’grale zu erhalten.
+Ffir posit-ives A· ergiebt sich 11ἑ111111611
+
+ιΓ-κάιι
+
+ς-. fs 11÷22F<v> = <D ÷ Fa) ’Ἕω
+
+ 
+
+d. h.
+
+θ”,,.-Ιπ),,υ
+
+ξε NJ.) (ι’-1)
+
+k—leF.t
+
+F(t>(lt ‚
+
+ 
+
+und fiir negatives k.-
+
+ffi'uuwcl
+
+ξε ΓΘ ΝΗ ²2³0)— “³ stow
+
+ 
+
+oder
+
+ξε ss Qu>—F2<t>]“e·⁴”³“>·⁰ ‹mat-
+
+Um 111 den beiden Fauen noch ein Integrale zu bekommen, nehmen
+wir zuerst lc positiv an.
+Durch die Substitution
+
+ul Ξ F3(u)
+geht die Gleichung (l) iiber 111
+
+(5) Diffi& 'cc2Du‚c÷ kg = 0 ⁷ k· = F51F2'.
+

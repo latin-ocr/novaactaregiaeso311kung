@@ -1,0 +1,56 @@
+62 ERNsT PFANNENSTOEL,
+
+nieht die Frage sein. Wir konnen desshalb unsere Aufgabe nooh
+mehr besohrssinken indem wir unter den integ-rablen ordinm-en Gleiohun-
+gen nur eine oder andere Classe von grosserer Bedeutung ausweihlen,
+deren Theorie vvir zum Grunde legen wollen bei der Integration der par-
+tiellen Gleiohungen von {ihnlieher Form. ·
+
+Unter den ordinitren und linearen Differentialgleiohungen zweiter
+Ordnung ist besonders eine hervorzuheben7 niimlioh die Gleichung
+
+(oc2 -Ι- b2oe -3- 021732)D}: -4- (α1 -†- blaJ>DJc -†- ao: = Ο ‚
+
+fiir welche wir wegen der Untersuohungen von Holmgren, Spitzer u. a.
+eine vollsta'indige Integrationsmethode kennen. Die Gleiohung ist durch
+die Formel
+
+affiss 1&oe -ff- Ὺ
+
+Δ Σ (a2 -Ι- (12ae 4- ‘'2²'²³²)²
+
+ 
+
+ 
+
+charakterisirt..
+
+Die Methode, nach weloher Professor Holmgren diese Gleichung
+integrirt, wird durch folgendes Theorem begriindet.
+
+VVenn in der Gleichung
+
+‹plDJS ’l- §QDJZ ''l- qm: Ξ Ο
+
+(pl und φρ ganze rationale Funotionen von ατ, jene hoohstens vom zwei-
+ten, diese hechstens vom ersten Grade sind und (1³3 eine Constante be—
+zeiohnet⁷ so ist
+
+ 
+
+ 
+
+ε = wife> ΞΓ-(Ιμ) [ῗωϊᾏτΥ-’,Λωᾱτ
+ein Infegmle, vorausgesetzt, dass μ die Gleiohung
+(melgor-2) §pff -Ρ (rss—lm‘ -1- <1¹³ = Ο
+
+...ι
+
+befriedigt und dass f(t)‚ φο durch die Gleichungen
+
+D2[9p1(t>f(t)] ÷ [‹p2(t) -1- (μωῖΜίἝῑΠῘῖῖ) = O ν q1(12'0)f(·‘1'0 = O
+
+bestimmt sind. Ausserden] muss μ positiv oder imagini'tr von der For-m
+064- bi sein, wo ago, und fot), f'(t), Ιϊᾞ) zwisohen ατο und a: stetig und
+endlich bleiben.
+

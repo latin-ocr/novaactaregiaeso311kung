@@ -1,0 +1,45 @@
+mmmm DIFFERENTlALGLEICHUNGEN. 61
+
+wo ΔΦ , ΔΙ, (116 belreffenden A-funetionen der beiden Gleichungen (7)
+und (8) bezeichnen. anolge der 1416011ῒὲ11
+
+Δ ψ = Ab<
+
+versehwinden (116 beiden letzten Glieder der letzten Gleichung, woduroh
+diese mit der Gleiehnng (8) znsannnenfiz'llt. Es verdient bemerkt zu
+werden, dass dieser Sats auch dann gin, wenn F2⁷ F„ F5‚ (ι)27 m„ ‘1²5
+SOWOhl u als v 61111111116117 11111· 1111133611 F1⁷ F3⁷ (pl, Q von v unabhi'mgig sein.
+
+Die allgemeine Verfahrnngsweise, welche bei der Integration einer
+gegebenen Differentizrlgleiehnng der fragliehen Gruppe befolgt werden
+soll, wird nach (16111 Yorigen die, dass man znerst irgend eine einfachere
+Foru] der anetionen Φ 1111(1 Ψ 611νέ11111 1111(1 1111116131 dieser Formen die
+Funetionen 111¹, ΦΕ, R¹7 δὴ, E* und A berechnet. Erscheint dann A 1111-
+161· 611161· 301611611 Formi, die einer bekannten Grruppe von integrablen
+Gleiehungen entsprieht, so wird irgend eine von den zu dieser Gruppe ge-
+1161·igen Gleiehnngen eonstruirt, wobei diejenige ani hequemsten zu er-
+wz'ihlen ist7 deren Integrale inan an] 1616111631611 finden kann. Ferner ftihrt.
+man in die gegebene Gleiehung die neuen Veranderlichen a und v ein⁷
+und bestinnnt 1111116131 der Formel (4) (116 111111611011 κ bis auf einen
+Factor‚ der nnr von ιι abhinigt, und welches bei dieser Besrimniung
+gleioh· 1 ί(1636121 werden kann. Mittelst der substitution
+
+³:25ss
+
+wird dann die nrspriingliehe Gleichnng uingefornit, wobei zn bemerken
+ist, dass man nur 110111ἰὲῚ hat, die Coeffioienten der Differentialquotienten
+Dfig und Dlg dieser nmgeformten Gleiehnng zu berechnen. weil 11Ξ1111-
+11611 (11636 Gleichnng mit der eonstrnirten gemeinsanien Werth der Func-
+11011 Δ hat, gelangt man endlich (1111·611 (116 Formel (9) zur vollstfindi-
+gen Kenntniss der Beziehung zxvisehen dem Integrale der gegebenen
+und dem der eonstruirten Gleiehung.
+
+Um wieder solche zu integrabelen Gleiohungen g·e116rige11 A-funo-
+v 11011611 aufzufinden⁷ wollen wir folgenden XVeg einsehlagen. Wir 311611611
+(116 Gleiehung (5) zu integriren, als wenn sie ordinz'ir wz'ire und D eine
+constante Graejsso 0626161111616, wonaeh wir die auf diese Weise in sym-
+bolisoher Forni erhaltenen Integrale in gewbhnliche Formen zu fibersetzen
+haben. Weil man bisher nur eine beziehungsweise sehr geringe Anzahl
+ordinarer Gleichnngen zweiter Ordnnng zu integriren verniocht, kann
+sehon aus diesem Grunde von einer generellen Integrationsmethode hier
+

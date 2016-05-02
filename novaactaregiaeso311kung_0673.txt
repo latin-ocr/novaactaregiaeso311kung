@@ -1,0 +1,51 @@
+N>
+0³
+
+PARTIELLE DIFFERENTIALGLEICHUNGEN.
+
+MZE&
+
+ff*
+
+wo Fl eine gewisse Function von ξ bezeichnet, und die reohte Seite
+der Gleichung (15) erscheint als eine Function von ξ einsam. Folglioh
+haben wir eine richtige Wahl der neuen Veranderliehen getroffen. In
+der That erhfflt man durch Einftihrung von ξ,η unmittelbar eine Glei-
+chung, deren Coefficienten smnmtlich von η unabhiingig sind. Wenn
+diess nicht der Fan gewesen wiire, so hatte man auch endlioh die
+abhiingige Veriinderliche austauschen nn'issen.
+
+Endlioh wollen wir die Bedingung sucheu, [mter welcher die
+
+Gleiohung (9) auf die Form
+(18) D}: 4- QDJJJ -1- Φ53 = O
+
+gefiihrt werde, wo (124, ‘1²5 unabhz'ingig von ξ seien.
+
+Die neuen Verandffl-lichen ξ, η nn'issen daun durch die Gleiohungen
+
+DJ} = w<y>ffi , Dal = 0
+
+oder
+(m) n=ff ᾳ s=wwmffwoe
+
+bestimmt werden.
+
+Durch eine der obigen ganz iihnliohe aber viel einfachere Ent-
+Wickelung findet man fiir die T-function der umgeformten Gleiehung
+folgenden Werth
+
+T = Fan> ψ 523> - 2sffl1-21. D1‘}’
+
+wo M dieselbe Bedeutung hat⁷ wie zuvor. Damit die Aufgabe mbglioh
+sei, mfissen die zwei letzten Glieder der rechten Seite dieser Gleichung
+eine von ξ ιιηῆὒῇἑίηὲἱςθ Function bilden. weil
+
+ξ = Φ<31)[ῑῖῖ
+
+ist, muss man demnach
+
+Βψη-ῂηῖὒεο
+
+haben, woraus
+
